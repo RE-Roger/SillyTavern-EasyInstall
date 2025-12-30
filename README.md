@@ -1,3 +1,6 @@
+> ⚠️ This is an **unofficial fork** of [SillyTavern](https://github.com/SillyTavern/SillyTavern).
+> It is licensed under **AGPL-3.0** and exists to improve ease of use on Windows.
+
 # SillyTavern
 
 LLM Frontend for Power Users
